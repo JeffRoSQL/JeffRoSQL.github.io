@@ -10,29 +10,11 @@ blogger_id: tag:blogger.com,1999:blog-2891223180963662514.post-47178382353405224
 blogger_orig_url: https://www.jeffrosql.com/2018/11/pass-summit-v20-from-3rd-timer.html
 ---
 
-All that I can say is "WOW"!  
+# All that I can say is... *"WOW"*
 
 This week I had the opportunity to attend the annual [PASS Summit](https://www.pass.org/summit) in Seattle, WA -  a gathering of professionals who all rally behind the technologies that encompass and support Microsoft SQL Server and its place in the world of data management.  
 
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align: center;">[![](https://1.bp.blogspot.com/-_JCZxCT7B2c/W-c-FQJsdMI/AAAAAAAAqR4/yr3PojoHH_A9aGsnwEQZv5YLM_NXsAx3wCKgBGAs/s320/IMG_20181106_193043_804.jpg)](https://1.bp.blogspot.com/-_JCZxCT7B2c/W-c-FQJsdMI/AAAAAAAAqR4/yr3PojoHH_A9aGsnwEQZv5YLM_NXsAx3wCKgBGAs/s1600/IMG_20181106_193043_804.jpg)</td>
-
-</tr>
-
-<tr>
-
-<td class="tr-caption" style="text-align: center;">Stormtroopers AND Craft Beer?!? Best... party... EVER! </td>
-
-</tr>
-
-</tbody>
-
-</table>
+![alt text](https://1.bp.blogspot.com/-_JCZxCT7B2c/W-c-FQJsdMI/AAAAAAAAqR4/yr3PojoHH_A9aGsnwEQZv5YLM_NXsAx3wCKgBGAs/s320/IMG_20181106_193043_804.jpg "Stormtroopers AND Craft Beer?!? Best... party... EVER!")
 
 This year PASS was celebrating it's 20th Summit. So, I began to secure my attendee badge back in the Spring. As months passed, and event day drew closer, I made plans to focus on sessions relating to [SQL Security](http://www.pass.org/summit/2018/Sessions/Details.aspx?sid=80308) and strengthening my skills with [Proficient PowerShell](http://www.pass.org/summit/2018/Sessions/Details.aspx?sid=80306).  
 
