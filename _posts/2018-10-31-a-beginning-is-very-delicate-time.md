@@ -14,7 +14,7 @@ blogger_orig_url: https://www.jeffrosql.com/2018/10/a-beginning-is-very-delicate
 
 For some time, I have had a desire to write. Perhaps a blog. Maybe some posts on a technical forum. Or just a few notes jotted down on a beer napkin. In any case, I have long felt as if a ton of stuff is bubbling around inside my head, and it just needs to come out.
 
-<img align="right" style="padding:10px" src="https://4.bp.blogspot.com/-KYtZIHIgmMM/W9mtqcK6p3I/AAAAAAAAqE4/JWEuEJFolgwNj_DZAN_8jiH4jwo-wFnQACLcBGAs/s1600/confused%2Bstormtrooper.jpeg">
+<img align="right" style="padding:10px" height="340px" width="340px" src="https://4.bp.blogspot.com/-KYtZIHIgmMM/W9mtqcK6p3I/AAAAAAAAqE4/JWEuEJFolgwNj_DZAN_8jiH4jwo-wFnQACLcBGAs/s1600/confused%2Bstormtrooper.jpeg">
 However, also for quite a while, I have struggled with a common feeling that "no one wants to hear what I have to say." Now, this feeling isn't really from a lack of confidence or inadequacy. I am proud of the things that I have experienced. But, I also know many brilliant folks who know a lot of brilliant stuff. So, I argue with myself that the things I want to share are no more important than what others do.
 
 As a result, nothing ever makes it to paper (or keyboard).  But that's not really the point, is it? I am not trying to "one-up" anyone. And this is not a ploy for fame or notoriety. The purpose of my writing is to get rid of the jumbled mess in my head. Organize it. Set it aside. Move along. So that I can then fit more junk in there.
@@ -32,7 +32,7 @@ Who am I? My name is Jeff Rouse. My colleagues and associates call me JeffRo. An
 
 What does that mean? Well, for over 20 years I have worked with computer systems, networking infrastructure and the various processes that can make IT successful. I've been a [Microsoft](https://www.microsoft.com/en-us/) junkie since Window for Workgroups, and present myself as an expert in most all Microsoft technologies.
 
-<img align="left" style="padding:10px" src="https://2.bp.blogspot.com/-uSeV7YX3mpA/W9muSjbjuMI/AAAAAAAAqFA/SDHB5rK_aGwUMXSFd5d4q-ln7qDrL05UQCLcBGAs/s1600/DeathStar2.jpg">
+<img align="left" style="padding:10px" height="340px" width="340px" src="https://2.bp.blogspot.com/-uSeV7YX3mpA/W9muSjbjuMI/AAAAAAAAqFA/SDHB5rK_aGwUMXSFd5d4q-ln7qDrL05UQCLcBGAs/s1600/DeathStar2.jpg">
 I have managed networking infrastructure issues from Ethernet to Token Ring (blehck), and am intimate with almost all technologies and protocols that support network "plumbing" ([APSTNDP](https://en.wikipedia.org/wiki/OSI_model)).
 More recent projects have allowed me to build a solid skill-set in Database Architecture and Administration; leveraging platforms such</span> [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server), [Netezza](https://www.ibm.com/analytics/netezza), and [DB2-LUW](https://www.ibm.com/support/knowledgecenter/en/SSEPGG_10.5.0/com.ibm.db2.luw.kc.doc/welcome.html).
 
