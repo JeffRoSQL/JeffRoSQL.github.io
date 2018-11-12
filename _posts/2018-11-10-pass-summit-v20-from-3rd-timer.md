@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PASS Summit v.20 (from a 3rd Timer)
-date: '2018-11-10T15:26:00.003-05:00'
+date: 2018-11-10
 author: Jeff-Ro
 tags: PASS Summit, SQL Server, SQL
 modified_time: '2018-11-10T15:41:16.415-05:00'
